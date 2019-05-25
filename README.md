@@ -1,4 +1,10 @@
-[![Build Status](https://travis-ci.org/mbredel/thesis-template.svg?branch=master)](https://travis-ci.org/mbredel/thesis-template)
+# Modified version for the Master thesis in Data Science
+
+This LaTeX-template is a slightly modified version from the Computer Science department to be conform with the
+[Richtlinien zur Masterarbeit
+im Studiengang Data Science – BBPO 2017](https://fbmn.h-da.de/uploads/Studium/MDS_RichtlinienMasterarbeit.pdf).
+
+The following sections in this README have not been changed.
 
 # A thesis LaTeX-template
 
